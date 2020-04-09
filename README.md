@@ -14,3 +14,5 @@ Data/code [Marvin]
 4) GDP vs. unemployment [Elvis]
 
 6) Sources [Lulu]
+
+https://github.com/elvisselimaj/Project_1/blob/master/graphs/China%202.png
